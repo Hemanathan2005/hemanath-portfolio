@@ -1,0 +1,419 @@
+body{
+
+    background-color: #081b29;
+    color: white;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+  
+    scroll-behavior: smooth;
+    scrollbar-color: #00abf0;
+}
+.one{
+    
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    margin-left: 18%;
+
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+a:hover,a:active{
+    color: #00abf0;
+}
+ul,li{
+    display: flex;
+    padding: 10px;
+    padding-top: 20px;
+    font-size: small;
+    font-weight: bold;
+    
+}
+ul{
+    padding-left: 45%;
+}
+
+.logo{
+    position: relative;
+    left: 100px;
+    font-size: large;
+
+}
+body{
+    background-image: url();
+    font-family: sans-serif;
+    
+}
+.intro{
+
+    position: relative;
+    top:230px;
+    left: 23%;
+    font-size: xx-large;
+    
+}
+
+.h2{
+    padding-left: 80px;
+    color:#00abf0;
+}
+h6{
+    padding-left: 80px;
+}
+.img1{
+    
+    width: 200px;
+    height: 200px;
+    margin-left: 60%;
+}
+
+p{
+    padding: 1% ;
+}
+.skil{
+    margin-top: 130px;
+    padding: 20px;
+    margin-left: 190px;
+    
+}.para{
+    width: 500px;
+    font-size: small;
+    opacity: 0.7;
+    color: white;
+}
+h2{
+    font-size: xx-large;
+    
+    
+}
+.setbox{
+    margin-right: 220px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.skillbox{
+    position: relative;
+    left: 37%;
+    color: #00abf0;
+    bottom: 50px;
+    font-weight: 800;
+}
+.lag{
+    
+    margin-top: 10px;
+    border: 2px solid white;
+   width: 400px;
+   padding: 40px;
+   border-radius: 14px;
+   font-weight: 600;
+}
+.webdevelopment{
+    margin-top: 10px;
+    border: 2px solid white;
+   width: 400px;
+   padding: 40px;
+   border-radius: 14px;
+   font-weight: 800;
+}
+.videoediting{
+    margin-top: 10px;
+    border: 2px solid white;
+   width: 400px;
+   padding: 40px;
+   border-radius: 14px;
+   font-weight: 800;
+}
+.uiux{
+    margin-top: 10px;
+   border: 2px solid white;
+   width: 400px;
+   padding: 40px;
+   border-radius: 14px;
+
+}
+.excel{
+    margin-top: 10px;
+    border: 2px solid white;
+   width: 400px;
+   padding: 40px;
+   border-radius: 14px;
+}
+.app{
+    margin-top: 10px;
+    border: 2px solid white;
+   width: 400px;
+   padding: 40px;
+   border-radius: 14px;
+}
+.lag:hover{
+    background-color: #00abf0;
+    color: white;
+}
+.app:hover{
+    background-color: #00abf0;
+    color: white;
+}
+.webdevelopment:hover{
+    background-color: #00abf0;
+    color: white;
+}
+.uiux:hover{
+    background-color: #00abf0;
+    color: white;
+}
+.excel:hover{
+    background-color: #00abf0;
+    color: white;
+}
+.videoediting:hover{
+    background-color: #00abf0;
+    color: white;
+}
+
+.icons1{
+    display: flex;
+    margin-left: 23%;
+    padding: 10px;
+    color: black;
+    position: relative;
+    bottom: 14%;
+}
+.icons1,a{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    color: black;
+    border-radius: 14px;
+    margin-left: 25%;
+    position: relative;
+    bottom: 110px;
+    border: none;
+    font-size: x-small;
+    font-weight: 800;
+
+
+}
+button:hover{
+    background-color: #00abf0;
+    color: white;
+}
+
+
+.hr2{
+    position: relative;
+    top: 38px;
+}
+.h22{
+    text-align: center;
+    position: relative;
+    top: 70px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 14px;
+    
+}
+.drone{
+    width: 200px;
+    padding: 10px;
+    position: relative;
+    top: 90px;
+    padding: 15px;
+    border-radius: 20px;
+}
+.web{
+    width: 230px;
+    border-radius: 20px;
+    position: relative;
+    top: 90px;
+
+    padding: 15px;
+
+
+
+
+}
+.video{
+    width: 230px;
+    border-radius: 20px;
+    position: relative;
+    top: 90px;
+    padding: 15px;
+    
+    
+}
+.ui{
+    width: 230px;
+    border-radius: 20px;
+    position: relative;
+    top: 90px;
+    padding: 15px;
+}
+.mini{
+    width: 230px;
+    border-radius: 20px;
+    position: relative;
+    top: 90px;
+    padding: 15px;
+}
+    
+.images{
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    
+    height: 550px;
+    color: white;
+}
+.drone:hover{
+    background-color: #00abf0;
+    color: whitesmoke;
+}
+.ui:hover{
+    background-color: #00abf0;
+    color: whitesmoke;
+}
+.mini:hover{
+    background-color: #00abf0;
+    color: whitesmoke;
+}
+.web:hover{
+    background-color: #00abf0;
+    color: whitesmoke;
+}
+.video:hover{
+    background-color: #00abf0;
+    color: whitesmoke;
+}
+.drone,h3,p{
+    padding: 6px;
+}
+.contact{
+    background-color: #00abf0;
+    text-align: center;
+    position: relative;
+    top:13%;
+    padding: 10px;
+    color: white;
+}
+hr{
+    position: relative;
+    top: 10%;
+}
+hr1{
+    position: relative;
+    
+}
+
+
+.marquee {
+    width: 100%; /* Adjust as needed */
+    overflow: hidden;
+    position: relative;
+    background-color: 081b29 ;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-top: 80px;
+    
+}
+
+.marquee-content {
+    display: inline-block;
+    white-space: nowrap;
+    padding-left: 100%; /* Start offscreen */
+    animation: marquee 9s linear infinite; /* Adjust duration as needed */
+}
+
+.icon {
+    display: inline-block;
+    margin: 0 10px; /* Adjust spacing between icons */
+}
+
+.icon img {
+    width: 50px; /* Adjust icon size as needed */
+    height: 50px;
+}
+
+@keyframes marquee {
+    0%   { transform: translateX(5%); }
+    100% { transform: translateX(-100%); }
+}
+
+.par2{
+   
+    font-size: small;
+}
+.con{
+    position: relative;
+    top: 5px;
+    font-weight: 800;
+}
+
+
+
+.dp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .profile-container {
+    position: relative;
+    text-align: center;
+  }
+  
+  .background-circle {
+    position: absolute;
+    width: 310px; /* Adjust size as needed */
+    height: 310px; /* Adjust size as needed */
+    background-color: #00abf0; /* Bright blue background color */
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1; /* Places the background circle behind the profile picture */
+  }
+  
+  .profile-pic {
+    width: 280px; /* Adjust size as needed */
+    height: 280px; /* Adjust size as needed */
+    border-radius: 50%;
+     /* Border color and thickness */
+    object-fit: cover; /* Ensures the image covers the circle */
+    animation: float 3s ease-in-out infinite; /* Floating animation */
+  }
+  
+  @keyframes float {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px); /* Adjust floating height as needed */
+    }
+    100% {
+        transform: translateY(0);
+    }
+  }
+  
+  .image{
+      margin-left: 45%;
+      margin-top: 3%;
+
+  }
+  
